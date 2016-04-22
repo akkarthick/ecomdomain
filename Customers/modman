@@ -1,4 +1,4 @@
 		
 		
-  Customer/									app/code/local/Compucom/Customer/
-Compucom_Customer.xml						app/etc/modules/Compucom_Customer.xml
+  Customers									app/code/local/Compucom/
+Compucom_Customer.xml						app/etc/modules/
