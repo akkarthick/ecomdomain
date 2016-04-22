@@ -1,0 +1,19 @@
+<config>
+    <modules>
+        <Compucom_Customers>
+            <version>1.0.0.0</version>
+        </Compucom_Customers>
+    </modules>
+    <global>
+        <models>
+            <compucom_customers>
+                <class>Compucom_Customers_Model</class>
+            </compucom_customers>   
+        </models>
+	<helpers>
+            <customers>
+                <class>compucom_customers_Helper</class>
+            </customers>
+        </helpers>
+    </global>
+</config>
