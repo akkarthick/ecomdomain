@@ -1,8 +1,0 @@
-<config>
-  <modules>
-    <Compucom_Notification>
-      <active>true</active>
-      <codePool>local</codePool>
-    </Compucom_Notification>
-  </modules>
-</config>
