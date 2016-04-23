@@ -1,4 +1,2 @@
-@import     	Customers
-@import		Notification
-
-
+@import  	ecomdomain/Customers
+@import  	ecomdomain/Notification
