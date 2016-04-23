@@ -1,2 +1,2 @@
-@import  	Customers
-@import  	Notification
+@import  	modules/Customers
+@import  	modules/Notification
