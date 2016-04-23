@@ -1,8 +1,0 @@
-<config>
-  <modules>
-    <Compucom_Customers>
-      <active>true</active>
-      <codePool>local</codePool>
-    </Compucom_Customers>
-  </modules>
-</config>
